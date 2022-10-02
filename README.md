@@ -7,6 +7,7 @@
 **2.4：**代码优化部分代码
 
 **question：**llvm ir编程代码
+
   **test_code.c：**被翻译的C文件
 
   **test_code.ll：**使用指令翻译成的llvm文件
